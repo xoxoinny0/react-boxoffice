@@ -1,4 +1,4 @@
-# Box Office Chart
+# 🎥 Box Office Chart
 박스오피스 순위데이터를 활용한 그래프 구현
 ## 프로젝트 개요
 ### 사용 Open API 및 라이브러리
